@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "anshatetheapples"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Ultra-lightweight Dynamic Island media capsule for KDE Plasma 6: track info, album art & animated audio visualizer.",
+        "Icon": "multimedia-audio-player",
+        "Id": "com.anshatetheapples.dynamicisland.media",
+        "License": "MIT",
+        "Name": "Dynamic Island Media",
+        "Version": "1.0.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

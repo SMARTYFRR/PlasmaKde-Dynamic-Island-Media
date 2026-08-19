@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Di_logo.png" width="128" alt="Dynamic Island Media Logo">
+<img src="logo.png" width="128" alt="Dynamic Island Media Logo">
 
 # Dynamic Island Media for KDE Plasma 6
 

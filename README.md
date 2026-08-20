@@ -45,7 +45,7 @@ Run the included install script:
 
 ```bash
 git clone https://github.com/anshatetheapples/Dynamic-Island-Media.git
-cd Dynamic-Island-Media
+cd PlasmaKde-Dynamic-Island-Media
 ./install.sh
 ```
 

@@ -44,7 +44,7 @@ Shows your currently playing track, album art, and live animated sound bars with
 Run the included install script:
 
 ```bash
-git clone https://github.com/anshatetheapples/Dynamic-Island-Media.git
+git clone https://github.com/SMARTYFRR/PlasmaKde-Dynamic-Island-Media
 cd PlasmaKde-Dynamic-Island-Media
 ./install.sh
 ```
